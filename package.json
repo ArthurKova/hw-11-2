@@ -4,8 +4,8 @@
   "homepage": "https://github.com/ArthurKova/hw-11-2",
   "description": "hw-11-2",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /hw-11-2/"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /hw-11-2/"
   },
   "repository": {
     "type": "git",
